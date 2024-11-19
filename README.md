@@ -29,6 +29,7 @@ Result
 4
 
 JsonObject = <<"{\"key1\": \"value1\", \"key2\": \"value2\"}">>.
+
 4> lesson3_task4:decode(JsonObject, proplist).
 
 Result
